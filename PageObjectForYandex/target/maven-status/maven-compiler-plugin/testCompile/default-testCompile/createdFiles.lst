@@ -1,0 +1,6 @@
+pageobj\BaseYandexPage.class
+pageobj\ResultPage.class
+pageobj\MarketPage.class
+pageobj\ProductPage.class
+pageobj\YandexTest.class
+pageobj\CategoryPage.class
